@@ -133,5 +133,8 @@ function init() {
 
             return stats;
         }
+	function thisDown() {
+  		console.log('111')
+  	}
     }
     window.onload = init;
