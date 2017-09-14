@@ -1,3 +1,6 @@
+function thisDown() {
+	console.log('111')
+}
 function init() {
 		var a = 0
 		var isBig = true
@@ -133,8 +136,5 @@ function init() {
 
             return stats;
         }
-	function thisDown() {
-  		console.log('111')
-  	}
     }
     window.onload = init;
