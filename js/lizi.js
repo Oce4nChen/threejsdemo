@@ -1,5 +1,5 @@
 function init() {
-		var a = 0
+		var a = -388
 		var isBig = true
         var stats = initStats();
 
@@ -102,7 +102,7 @@ function init() {
                 cloud.rotation.x = step;
                 cloud.rotation.z = step;
             }
-			if(a==0){
+			if(a==-388){
 				isBig = true
 			}
 			if (a==888){
