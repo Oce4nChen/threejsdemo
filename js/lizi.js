@@ -1,6 +1,3 @@
-function thisDown() {
-	console.log('111')
-}
 function init() {
 		var a = 0
 		var isBig = true
